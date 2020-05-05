@@ -1,1 +1,1 @@
-java -cp Messange.Server.jar Server
+web: java -jar Messange.Server.jar
